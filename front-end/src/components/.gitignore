@@ -1,0 +1,16 @@
+# Python
+Env/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# React
+front-end/node_modules/
+front-end/build/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
